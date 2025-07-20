@@ -1,0 +1,15 @@
+{
+    "budget_alerts": {
+        "enabled": true,
+        "threshold_percentage": 80,
+        "notification_email": "your-email@example.com"
+    },
+    "optimization": {
+        "idle_resource_threshold_days": 7,
+        "auto_cleanup": false
+    },
+    "reporting": {
+        "daily_summary": false,
+        "weekly_summary": true
+    }
+}
